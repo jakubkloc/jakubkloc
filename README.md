@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on upgrading my old projects and learning new things.<br>👯 I’m looking to collaborate on a project that is developing and good for society and world.<br>🤝 I’m looking for job as a front-end web dev.<br>🌱 I’m currently learning front-end technologies and doing repetitions. <br>💬 Ask me about if you are self-taught and just starting with frontend and don't know where to look for materials.<br>⚡ Fun fact: Churchill never actually said that Berlin should be bombed every 50 years.
+🔭 I’m currently working in <a href="https://nomonday.pl/" target="_blank">NoMonday</a>.<br>🤝 I’m trying to find new job as a front-end web dev.<br>🌱 I’m currently learning another front-end technologies (CMS, php, Astro). <br>💬 Ask me about if you are self-taught and just starting with frontend and don't know where to look for materials.<br>⚡ Fun fact: Churchill never actually said that Berlin should be bombed every 50 years.
 
 
 ## 🌐 Socials:
