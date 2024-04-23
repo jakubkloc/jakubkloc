@@ -7,6 +7,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakub-kloc-744833292) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22097547) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kubot11/collections/) 
+[![My Website](https://img.shields.io/badge/My_Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://jakubkloc.github.io)
+
+
 
 # 💻 Tech Stack:
 ## Fundamental Frontend:
