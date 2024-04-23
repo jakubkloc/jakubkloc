@@ -1,8 +1,8 @@
 # 💫 About Me:
 🤝 I’m trying to find new job as a front-end web dev.<br>
-🌱 I’m currently learning Symfony, Jest, OOP. <br>
+🌱 I’m currently learning Symfony, Jest, OOP, expanding knowledge of React . <br>
 💬 Ask me about if you are self-taught and just starting with frontend and don't know where to look for materials.<br>
-⚡ Fun fact: Churchill never actually said that Berlin should be bombed every 50 years.
+⚡ Fun fact: Blue police box do not move through time and space at all.
 
 
 ## 🌐 Socials:
