@@ -25,6 +25,20 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE.svg?style=for-the-badge&logo=vite&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-3736AB.svg?style=for-the-badge&logo=astro&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+
 # 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=jakubkloc&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
